@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Brian, sometimes just b.
 - 🌱 Statistics, automation, and people, are of interest to me.
-- 💞️ I’m also an artist; many media. Watercolor is a favorite.
+- 💞️ Also an artist; many media. Watercolor is a favorite.
 - 📫 brianmaughan@gmail.com.
 
 <!---
